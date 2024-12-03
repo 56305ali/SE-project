@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ToDo List App",
+  "version": "1.0.0",
+  "description": "A simple and efficient To-Do List application to manage your tasks.",
+  "icons": {
+    "48": "./Img/images/icon.png",
+    "128": "./Img/images/icon.png"
+  },
+  "action": {
+    "default_popup": "./index.html",
+    "default_icon": "./Img/images/icon.png"
+  }
+}
